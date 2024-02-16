@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Sakura Garden
+* source:	https://sketchfab.com/3d-models/low-poly-sakura-garden-e0ae2a488ca843a39ba44711f6b22e4c
+* author:	JoePascalm (https://sketchfab.com/JoePascalm)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Sakura Garden" (https://sketchfab.com/3d-models/low-poly-sakura-garden-e0ae2a488ca843a39ba44711f6b22e4c) by JoePascalm (https://sketchfab.com/JoePascalm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
