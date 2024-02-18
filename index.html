@@ -21,13 +21,13 @@
     <a-scene arjs embedded renderer="logarithmicDepthBuffer: true;" vr-mode-ui="enabled: false" gesture-detector
         id="scene">
         <a-assets>
-            <a-asset-item id="tulip" src="assets/models/tulip_flower.glb">
+            <a-asset-item id="flower" src="assets/models/lowpoly_flower.glb">
             </a-asset-item>
         </a-assets>
 
         <a-marker preset="hiro" raycaster="objects: .clickable" emitevents="true"
             cursor="fuse: false; rayOrigin: mouse;" id="markerA">
-            <a-entity id="tulip-model" gltf-model="#tulip" position="0 0 0" scale="0.1 0.1 0.1" class="clickable"
+            <a-entity id="flower-model" gltf-model="#flower" position="0 0 0" scale="0.1 0.1 0.1" class="clickable"
                 gesture-handler>
             </a-entity>
         </a-marker>
